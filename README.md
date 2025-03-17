@@ -31,3 +31,5 @@ It provides
 9. Optimal photographing settings can be recalculated with the same E but a different A without doing the whole process. Enter a different A and click the Recalculate button next to the A constraint.
 10. The graph will illustrate the D-v plot for E. The dashed line represents D,v pairs that satisfy A and the red dot represents the optimal D,v pair among them. 
 11. Blanck region may appear on the graph when the GSD constraint is enabled. They represent the D-v region which does not have any camera settings that can satisfy GSD constraint.
+
+If you have any issues with the app, feel free to contact me (sooyalim@snu.ac.kr). I will try my best to fix the problem.
